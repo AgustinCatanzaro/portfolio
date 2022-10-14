@@ -374,6 +374,16 @@ input, select, textarea {
 
 		}
 
+	.splitter {
+		border-bottom: 2px solid #ffffff;
+		margin-top: 5%;
+		width: 100%;
+	}
+
+	.pagebutton {
+		margin-right: 5%;
+	}
+
 	label {
 		color: #ffffff;
 		display: block;
